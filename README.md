@@ -1,0 +1,39 @@
+INVESTIGACION
+Tema 1: ¿Qué es TypeScript?
+● ¿Qué es TypeScript y quién lo desarrolla?
+TypeScript es un lenguaje de programacion de codigo abierto desarrollado por Microsoft, todo codigo JavaScript valido tambien sera un codigo TypeScript valido
+
+● ¿Qué diferencias tiene con JavaScript?
+Las diferencias que tiene JavaScript con Typescript es que TypeScript es estatico y JavaScript dinamico, javascript se ejecuta directamente en el navegador mientras que typescript requiere un paso de transpilacion, el paso de transpilacion se refiere de pasar un codigo a otro lenguaje de programacion
+
+● ¿Qué ventajas ofrece?
+Las ventas que ofrece es que nos avisa sobre errores muy temprano, su compatibilidad con javascript y que gracias al uso de tipado estatico facilita la escabilidad y mantenimiento del codigo en proyectos de gran escala
+
+● ¿Cuál es su versión actual?
+Su version actual es Typescript 7 que salio el 8 de julio de 2026
+
+Tema 2: Crear y ejecutar un proyecto
+● ¿Cómo se instala TypeScript en un proyecto?
+● ¿Para qué sirve el archivo tsconfig.json?
+● ¿Qué hace el comando tsc?
+● ¿Qué diferencia hay entre ejecutar un archivo con tsc, tsx y node?
+Tema 3: Tipos básicos
+● ¿Qué son los tipos string, number y boolean?
+● ¿Cómo se declara un array con tipo?
+● ¿Qué es un tipo unión?
+● ¿Por qué se recomienda evitar any?
+Tema 4: Funciones
+● ¿Cómo se indican los tipos de los parámetros?
+● ¿Cómo se indica el tipo de retorno?
+● ¿Qué es un parámetro opcional?
+● ¿Qué es un parámetro por defecto?
+Tema 5: Interfaces y type
+● ¿Qué es una interfaz y para qué sirve?
+● ¿Qué es un type?
+● ¿Cómo se declara una propiedad opcional?
+● ¿Cuándo conviene usar cada uno?
+Tema 6: Enums y tipos literales
+● ¿Qué es un enum?
+● ¿Qué es un tipo literal?
+● ¿En qué se parecen y en qué se diferencian?
+● ¿En qué situaciones se puede usar cada uno?
