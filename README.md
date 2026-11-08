@@ -22,11 +22,16 @@ Para lo que sirve el archivo tsconfig.json es para confingurar como va a trabaja
 Lo que hace el comando tsc es el que convierte un codigo de typescript a javascript
 
 ● ¿Qué diferencia hay entre ejecutar un archivo con tsc, tsx y node?
-La diferencia de ejecutar un archivo con tsc, tsx y node es que tsc, ejecuta y pasa el codigo de typescript a javascript, el tsx ejecuta el codigo typescript directamente y el node ejecuta un codigo de javascript
+La diferencia de ejecutar un archivo con tsc, tsx y node es que tsc pasa el codigo de typescript a javascript, el tsx ejecuta el codigo typescript directamente y el node ejecuta un codigo de javascript
 Tema 3: Tipos básicos
 ● ¿Qué son los tipos string, number y boolean?
+Son tipos de datos que nos indican el tipo de valor, el string seria tipo texto, el number seria tipo numero y el boolean seria verdadero o falso
 ● ¿Cómo se declara un array con tipo?
+para declarar un array con tipo seria crear una variable, luego poner el tipo y luego asignarle lo que tendra adentro segun el tipo que hemos puesto, un ejemplo seria
+const nombre: string[] = ["Gonzalo", "William"]
 ● ¿Qué es un tipo unión?
+El tipo union es cuando a una variable se le permite mas de 2 tipos validos, un ejemplo seria
+const datos: (string | number)[] = ["Gonzalo", 19]
 ● ¿Por qué se recomienda evitar any?
 Tema 4: Funciones
 ● ¿Cómo se indican los tipos de los parámetros?
