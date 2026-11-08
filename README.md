@@ -33,9 +33,13 @@ const nombre: string[] = ["Gonzalo", "William"]
 El tipo union es cuando a una variable se le permite mas de 2 tipos validos, un ejemplo seria
 const datos: (string | number)[] = ["Gonzalo", 19]
 ● ¿Por qué se recomienda evitar any?
+Se recomienda evitar any como permite guardar cualquier dato en una variable pero no verifica que tipo de dato es
 Tema 4: Funciones
 ● ¿Cómo se indican los tipos de los parámetros?
+Los tipos de los parámetros se indican colocando dos puntos después del nombre de cada parámetro, seguido del tipo de dato
+
 ● ¿Cómo se indica el tipo de retorno?
+El tipo de retorno se indica colocando dos puntos despues de los parentesis de los parametros de la funcion y escribiendo el tipo de dato que devolvera
 ● ¿Qué es un parámetro opcional?
 ● ¿Qué es un parámetro por defecto?
 Tema 5: Interfaces y type
