@@ -14,9 +14,15 @@ Su version actual es Typescript 7 que salio el 8 de julio de 2026
 
 Tema 2: Crear y ejecutar un proyecto
 ● ¿Cómo se instala TypeScript en un proyecto?
+TypeScript se instala con el siguiente comando en la terminal, npm install -D typescript tsx @types/node
+
 ● ¿Para qué sirve el archivo tsconfig.json?
+Para lo que sirve el archivo tsconfig.json es para confingurar como va a trabajar typescript con el proyecto
 ● ¿Qué hace el comando tsc?
+Lo que hace el comando tsc es el que convierte un codigo de typescript a javascript
+
 ● ¿Qué diferencia hay entre ejecutar un archivo con tsc, tsx y node?
+La diferencia de ejecutar un archivo con tsc, tsx y node es que tsc, ejecuta y pasa el codigo de typescript a javascript, el tsx ejecuta el codigo typescript directamente y el node ejecuta un codigo de javascript
 Tema 3: Tipos básicos
 ● ¿Qué son los tipos string, number y boolean?
 ● ¿Cómo se declara un array con tipo?
