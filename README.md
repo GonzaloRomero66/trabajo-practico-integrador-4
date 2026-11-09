@@ -219,3 +219,8 @@ En lo que se diferencian es que enum agrupa valores bajo un nombre mientras que 
 ### ¿En qué situaciones se puede usar cada uno?
 
 En las situaciones que se puede ocupar el tipo literal son casos simples que no tengan muchos valores y el enum cuando se quiere agrupar varias constantes.
+
+Fuentes
+Material del classroom
+https://www.youtube.com/watch?v=g9IemynoL_s
+https://coddy.tech/docs/es/typescript/what-is-typescript
